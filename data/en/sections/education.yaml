@@ -15,7 +15,7 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: Massachusetts Institute of Technology (MIT)
-    logo: /images/sections/education/mit_logo2.png
+    logo: /images/sections/education/mit_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
