@@ -20,8 +20,8 @@ degrees:
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 5.0
-    outOf: 5.0
+    achieved: "5.0"
+    outOf: "5.0"
   takenCourses: #(optional)
     showGrades: false
     collapseAfter: 10
