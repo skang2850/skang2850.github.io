@@ -15,7 +15,7 @@ degrees:
   timeframe: Expected Graduation in May 2027
   institution:
     name: University of Illinois at Urbana-Champaign
-    logo: /images/sections/education/UIUC_logo.jpg
+    logo: /images/sections/education/uiuc_logo.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
