@@ -25,6 +25,10 @@ skills:
   logo: /images/sections/skills/python.png
   summary: "Most proficient language, including use of libraries such as pandas, numpy, and scikit-learn."
   categories: ["languages"]
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Extensive experience through Database Systems course."
+  categories: ["languages"]
 - name: Microsoft Excel and Powerpoint
   logo: /images/sections/skills/microsoft_office.png
   summary: "Extensive experience using Excel for data manipulation and Powerpoint for slide decks."
